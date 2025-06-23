@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/recipehub-32294-587f12c3/recipe_backend_workspace/recipe_backend"
+}
